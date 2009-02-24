@@ -8,7 +8,7 @@ Version: 0.2
 
 == Description ==
 
-Checks commentator's website PageRank and removes nofollow attribute if it's PageRank is higher than or equal to your website's PageRank.
+Checks commentator's website PageRank and removes nofollow attribute if its PageRank is higher than or equal to your website's PageRank.
 
 Based on GooglePR by Emre Odabas.
 
