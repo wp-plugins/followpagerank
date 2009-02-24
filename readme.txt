@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: Rene Schmidt, Emre Odabas
-Donate link: http://www.reneschmidt.de/
 Tags: pagerank, follow, nofollow
 Requires at least: 2.7
 Tested up to: 2.7
@@ -12,9 +11,15 @@ Checks commentator's website PageRank and removes nofollow attribute if it's Pag
 
 Based on GooglePR by Emre Odabas.
 
+Requirements: PHP5, Wordpress 2.7, CURL, write access to /tmp
+
+Attention: This is alpha grade software. Please report any bugs or suggestions to rene@reneschmidt.de, thank you.
+
 == Installation ==
 
 1. Upload followpagerank.php to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 See http://www.reneschmidt.de/veroeffentlichungen/followpagerank/ for further information.
+
+PLEASE: if you have problems using this alpha software, please send an email to rene@reneschmidt.de with a detailed problem description. Thank you.
