@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: www.reneschmidt.de FollowPagerank
+Plugin Name: FollowPagerank www.reneschmidt.de
 Plugin URI: http://www.reneschmidt.de/veroeffentlichungen/followpagerank/
-Description: Checks commentator's website PageRank and removes nofollow attribute if it's PageRank is higher than or equal to your website's PageRank; Based on GooglePR by Emre Odabas
-Version: 0.1
+Description: Checks commentator's website PageRank and removes nofollow attribute if it's PageRank is higher than or equal to your website's PageRank; 
+Version: 0.2
 Author: Rene Schmidt
 Licence: GPL
 Author URI: http://www.reneschmidt.de/veroeffentlichungen/followpagerank/
